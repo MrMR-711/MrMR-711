@@ -7,4 +7,4 @@
 <code>____--------------</code> 20% The remaining time is unknown
 
 ### Alien Cypher 1.0.0v
-<code>_______________-----</code> 85% The remaining time is unknown
+<code>___________---------</code> 65% The remaining time is unknown
