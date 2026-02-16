@@ -4,4 +4,4 @@
 <code>____________________</code> 100% This is published
 
 ### Alien Cipher 1.0.0v
-<code>_____________-------</code> 65% The remaining time is unknown
+<code>________------------</code> 35% The remaining time is unknown
