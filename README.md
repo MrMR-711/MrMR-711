@@ -8,7 +8,7 @@
 
 <img width="100%" alt="Inventory: the languages I write" src="https://www.gitskins.com/api/section/sheet-inventory?username=mrmr-711&mode=dark&v=2026-11-11&pv=cdklJOZkbgeeQGeb">
 
-## Adventure Log — Last 26 Weeks
+---
 
 <img width="100%" alt="Adventure log: the last 26 weeks of contributions" src="https://www.gitskins.com/api/section/rpg-log?username=mrmr-711&mode=dark&v=2026-11-11&pv=cdklJOZkbgeeQGeb">
 
