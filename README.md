@@ -1,56 +1,28 @@
-<p align="center">
-  <img alt="Mr. MR" src="https://www.gitskins.com/api/section/wordmark?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&label=Mr.%20MR" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" alt="ASCII profile scan" src="https://www.gitskins.com/api/section/system-scan?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4">
-</p>
+# Mr. MR
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&mode=light">
-    <img width="100%" alt="Mr. MR — profile" src="https://www.gitskins.com/api/section/hero?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&mode=dark">
-  </picture>
-</p>
+**An RPG-style character sheet, generated from my real GitHub numbers.**
 
-<p align="center"><a href="https://github.com/mrmr-711">GitHub</a> &nbsp;·&nbsp; <a href="https://MrMR-711.github.io">Website</a></p>
+[![GitHub](https://img.shields.io/badge/GitHub-mrmr--711-181717?logo=github&logoColor=white)](https://github.com/mrmr-711)
+[![Website](https://img.shields.io/badge/Website-MrMR--711.github.io-2ea44f?logo=githubpages&logoColor=white)](https://MrMR-711.github.io)
 
-<p align="center">
-  <img width="100%" alt="Highlights" src="https://www.gitskins.com/api/section/highlights?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&items=CSS%3A%3A5%20public%20repositories%7CWeb-Chemistry-Lab%3A%3AChemistry%20Lab%20App%7CImpact%3A%3A53%20stars%20%C2%B7%2011%20active%20days">
-</p>
-
-## Signal
-
-<p align="center">
-  <img width="100%" alt="53 stars across 5 repositories" src="https://www.gitskins.com/api/section/stats?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4">
-</p>
-
-<p align="center">
-  <img alt="Language stack" src="https://www.gitskins.com/api/section/stack?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4" width="100%">
-</p>
-
-## Work
-
-<p align="center">
-  <img width="100%" alt="Pinned projects" src="https://www.gitskins.com/api/section/projects?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4">
-</p>
-
-## The year, so far
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&mode=light">
-    <img width="100%" alt="34 contributions in the last year" src="https://www.gitskins.com/api/section/heatmap?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&mode=dark">
-  </picture>
-</p>
-
-<p align="center">
-  <img alt="mrmr-711 social visual" src="https://www.gitskins.com/api/section/social?username=mrmr-711&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4">
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <sub>Mr. MR · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
-  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
+## Character Sheet
+
+<img width="100%" alt="Mr. MR's character sheet" src="https://www.gitskins.com/api/section/sheet-main?username=mrmr-711&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190655382%3Fu%3D5d9f9a7d61b6c2ebbde3a686beae2103af2ddf2e%26v%3D4&mode=dark&v=2026-11-11&pv=cdklJOZkbgeeQGeb">
+
+## Inventory — Languages I Write
+
+<img width="100%" alt="Inventory: the languages I write" src="https://www.gitskins.com/api/section/sheet-inventory?username=mrmr-711&mode=dark&v=2026-11-11&pv=cdklJOZkbgeeQGeb">
+
+## Adventure Log — Last 26 Weeks
+
+<img width="100%" alt="Adventure log: the last 26 weeks of contributions" src="https://www.gitskins.com/api/section/rpg-log?username=mrmr-711&mode=dark&v=2026-11-11&pv=cdklJOZkbgeeQGeb">
+
+---
+
+<sub>Character Sheet · attributes from my real GitHub numbers, 1 to 20 on a log scale · made with [GitSkins](https://www.gitskins.com/readme-generator)</sub>
